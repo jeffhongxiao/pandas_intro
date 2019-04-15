@@ -1,3 +1,15 @@
+# Slides
+
+```
+$ cd ./presentation
+$ nvm use
+$ npm install -g serve
+$ serve ./ # leave console running
+
+Then go to http://localhost:5000/home
+
+
+# Demo
 ## pre-installation
 ```
 $ pyenv local
